@@ -1,0 +1,9 @@
+2023-08-06 02:39:58.464552 - Initialized conversion of CBT278
+2023-08-06 02:39:58.604756 - Received CBT.V505.FILE278.PDS from FILE278.XMI 
+2023-08-06 02:39:58.607103 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE278.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:39:58.608102 - Found $$DOC.txt (text/plain) in CBT.V505.FILE278.PDS, moved to PDS/$$DOC
+2023-08-06 02:39:58.609246 - Found @FILE278.txt (text/plain) in CBT.V505.FILE278.PDS, moved to PDS/@FILE278
+2023-08-06 02:39:58.610340 - Found CLISTS.txt (text/plain) in CBT.V505.FILE278.PDS, moved to PDS/CLISTS
+2023-08-06 02:39:58.610353 - Found INSTALL.bin containing application/octet-stream, moved to PDS/INSTALL
+2023-08-06 02:39:58.612561 - Found PANELS.txt (text/plain) in CBT.V505.FILE278.PDS, moved to PDS/PANELS
+2023-08-06 02:39:58.613440 - Found SKELETON.txt (text/plain) in CBT.V505.FILE278.PDS, moved to PDS/SKELETON
